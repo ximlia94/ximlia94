@@ -26,7 +26,7 @@ Real-time HPC cluster monitoring dashboard
 
 ## 📫 Connect With Me
 
-- Email: ximlia94@dawoncomputin.com
+- Email: ximlia94@dawoncomputing.com
 
 
 ---
