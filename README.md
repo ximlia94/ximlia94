@@ -9,13 +9,13 @@
 
 ## 🚀 Featured Projects
 
-### [⚡ Parallel Bench](https://github.com/username/parallel-bench)
+### [⚡ Parallel Bench](https://github.com/ximlia94/parallel-bench)
 High-performance parallel algorithm benchmark suite
 
-### [🤖 Log Guard](https://github.com/username/log-guard)
+### [🤖 Log Guard](https://github.com/ximlia94/log-guard)
 AI-powered log anomaly detection with MLOps pipeline
 
-### [💻 Cluster Dash](https://github.com/username/cluster-dash)
+### [💻 Cluster Dash](https://github.com/ximlia94/cluster-dash)
 Real-time HPC cluster monitoring dashboard
 
 ## 📚 Currently Working On
@@ -26,7 +26,7 @@ Real-time HPC cluster monitoring dashboard
 
 ## 📫 Connect With Me
 
-- Email: ximlia94@dawoncomputing.com
+- Email: ximlia94@gmal.com
 
 
 ---
