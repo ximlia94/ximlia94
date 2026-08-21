@@ -1,6 +1,6 @@
 # Hi there 👋 I'm ximlia94
 
-## 🔧 Software Engineer @ Dawon Computing
+## 🔧 Software Engineer @ DawonComputing
 
 - 🏢 Working on HPC infrastructure & software development
 - 🎯 Focusing on parallel computing, MLOps, and cloud-native solutions  
@@ -27,6 +27,7 @@ Real-time HPC cluster monitoring dashboard
 ## 📫 Connect With Me
 
 - Email: ximlia94@gmal.com
+- Email: kla94@dawoncomputing.com
 
 
 ---
